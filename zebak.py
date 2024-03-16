@@ -21,7 +21,7 @@ spec_accuracy = 74.81  # percent
 normal_spec_cost = 750  # https://oldschool.runescape.wiki/w/Liquid_adrenaline#2_dose
 seercull_spec_cost = 1000
 
-if not lightbearer:  # assumes magus
+if not lightbearer:  # assumes magus ... taken from DPS calc cell M18 bc I'm lazy ...  https://docs.google.com/spreadsheets/d/1wBXIlvAmqoQpu5u9XBfD4B0PW7D8owyO_CnRDiTHBKQ
     shadow_max_hit_roll = 114896
     shadow_max = 84
 else:
