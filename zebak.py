@@ -7,7 +7,7 @@ from thralls import *
 num_to_kill = 10000
 thrall_active = True
 
-# will prob only be editing these 4 variables + raid/path level to run sims
+# To run your own sims edit these variables // you'll have to edit logic below to use anything besides zcb as spec weap
 raid_level = 415
 path_level = 3
 
