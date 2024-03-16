@@ -1,7 +1,7 @@
 from random import randint
 
 # constants are obtained from OSRS DPS Calc
-# https://docs.google.com/spreadsheets/d/161pz3-EpfJjAdgWRKyF-GTyMTgjha3Z827HesA3QxBE/edit#gid=158500257
+# https://docs.google.com/spreadsheets/d/1wBXIlvAmqoQpu5u9XBfD4B0PW7D8owyO_CnRDiTHBKQ
 
 # https://oldschool.runescape.wiki/w/Damage_per_second/Melee#Step_six:_Calculate_the_hit_chance
 # Max defence roll = (level * prayer + 9) * (bonus + 64)
